@@ -1,0 +1,2 @@
+# Solarz-hler
+Stromzähler auslesen
